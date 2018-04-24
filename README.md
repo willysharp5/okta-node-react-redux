@@ -38,8 +38,8 @@ Deploy server and client separately and follow these steps for heruko git deploy
 
 
 #### Push to Github
-git remote add github  https://github.com/willysharp5/node-okta-react-redux.git
-git push -u github  master
+* git remote add github  https://github.com/willysharp5/node-okta-react-redux.git
+* git push -u github  master
 
 
 
